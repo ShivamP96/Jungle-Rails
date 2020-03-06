@@ -1,6 +1,10 @@
 <section class="cart-show">
 
   <header class="page-header">
+  <%if enhanced_cart.length == 0%>
+    <h3> The Cart is empty. Please add some items to the Cart </h2>
+  <%= link_to "Back to Shopping", root_path, class: "btn btn-lg btn-primary" %>
+  <%else%>
     <h1>My Cart</h1>
   </header>
 
@@ -48,5 +52,6 @@
       <% end %>
     </div>
   </div>
+  <% end %>
 
 </section>
