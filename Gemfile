@@ -1,3 +1,6 @@
+
+# Defines all the dependencies for a ruby app
+
 source 'https://rubygems.org'
 ruby "2.3.5"
 

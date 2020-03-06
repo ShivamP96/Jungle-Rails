@@ -1,7 +1,12 @@
 Rails.application.routes.draw do
 
+  # defines the forward slash, / , please take to products (controller) index (action)
   root to: 'products#index'
+  #get '/' => 'products#index'
+  # get '/' => {controller: 'products', action: 'index'}
+  
 
+  # path/endpoint to /products for the index or show
   resources :products, only: [:index, :show]
   resources :categories, only: [:show]
 
