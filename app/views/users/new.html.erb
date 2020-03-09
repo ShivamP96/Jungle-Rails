@@ -1,0 +1,19 @@
+# app/views/users/new.html.erb 
+
+# we create the view file where we put the signup form
+
+#A note on Rail's conventions: This view file is for the new action of the users controller. As a result, we save the file here: /app/views/users/new.html.erb. The file is called new.html.erb and it is saved inside the views folder, in a folder we created called users.
+
+# Convention: view files are inside a folder with the same name as the controller and are named for the action they render.
+
+<h1>Signup!!</h1>
+
+<%= form_for :user, url: '/users' do |f| %>
+
+  Name: <%= f.text_field :name %>
+  Email: <%= f.text_field :email %>
+  Password: <%= f.password_field :password %>
+  Password Confirmation: <%= f.password_field :password_confirmation %>
+ <%= f.submit "Submit" %>
+
+  <% end %>
