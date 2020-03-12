@@ -31,16 +31,16 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Pictures
 
 ### Home
-!["Jungle Home Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/Scheduler-Base.png?raw=true)
+!["Jungle Home Image"](https://github.com/DrPaddle/Jungle-Rails/blob/master/docs/Jungle-Home.png)
 
 ### Checkout
-!["Jungle Checkout Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-adding.png?raw=true)
+!["Jungle Checkout Image"](https://github.com/DrPaddle/Jungle-Rails/blob/master/docs/Jungle_Checkout.png)
 
 ### Security
-!["Jungle Security Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-saving.png?raw=true)
+!["Jungle Security Image"](https://github.com/DrPaddle/Jungle-Rails/blob/master/docs/Jungle-Security.png)
 
 ### All Products
-!["Jungle All Products Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-warning.png?raw=true)
+!["Jungle All Products Image"](https://github.com/DrPaddle/Jungle-Rails/blob/master/docs/Jungle-AllProducts.png)
 
 ### New Product
-!["Jungle New Product Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-warning.png?raw=true)
+!["Jungle New Product Image"](https://github.com/DrPaddle/Jungle-Rails/blob/master/docs/Jungle-NewProduct.png)
