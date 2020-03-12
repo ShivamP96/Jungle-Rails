@@ -25,3 +25,22 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+
+## Pictures
+
+### Home
+!["Jungle Home Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/Scheduler-Base.png?raw=true)
+
+### Checkout
+!["Jungle Checkout Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-adding.png?raw=true)
+
+### Security
+!["Jungle Security Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-saving.png?raw=true)
+
+### All Products
+!["Jungle All Products Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-warning.png?raw=true)
+
+### New Product
+!["Jungle New Product Image"](https://github.com/DrPaddle/scheduler/blob/master/docs/scheduler-warning.png?raw=true)
